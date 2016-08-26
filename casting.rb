@@ -1,6 +1,6 @@
 a_hashes = [{ a: 1, b:2 },
-        { a: 3, b:4 }]
-a_hashes.each do |h|
+            { a: 3, b:4 }]
+a_hashes.each do |a,b|
   puts h
 end
 
